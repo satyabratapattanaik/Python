@@ -1,0 +1,5 @@
+print("My name is Satya.")
+print("My age is 24.")
+print("My name is Satya" , "I am 24 yrs old.")
+print(24)
+print(24+13)
